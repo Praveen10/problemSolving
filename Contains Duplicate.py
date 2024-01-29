@@ -12,3 +12,18 @@
 
 # Input: nums = [1,2,3,4]
 # Output: false
+
+# Answer
+
+def containsDuplicate(nums):
+    uniqueElements = set()
+
+    for number in nums:
+        if number in uniqueElements:
+            return True
+
+        uniqueElements.add(number)
+    return False
+
+nums = [1,1,1,3,3,4,3,2,4,2]
+containsDuplicate(nums)
