@@ -30,3 +30,4 @@ def maximumOddBinaryNumber(s):
     return ''.join(s_list)
 
 print(maximumOddBinaryNumber("010"))
+print(maximumOddBinaryNumber("01011"))
