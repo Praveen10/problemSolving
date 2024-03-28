@@ -45,3 +45,76 @@
 
   
 </svg>
+
+<!-- Updated code on 28/03 -->
+
+<svg width="1500" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="-120 0 1600 200">
+  
+  <!-- Blue Cable  -->
+  <line x1="-70" y1="72" x2="-20" y2="72" stroke="gold" stroke-width="15"/>
+  <line x1="-20" y1="72" x2="75" y2="72" stroke="blue" stroke-width="20"/>
+  
+  <!-- After Twist  -->
+  <line x1="1335" y1="94" x2="1385" y2="94" stroke="gold" stroke-width="15"/>
+  <line x1="1240" y1="94" x2="1335" y2="94" stroke="blue" stroke-width="20"/>
+  
+ <path d="M70 72  Q 130 50 210 82 
+                  Q 290 130 360 82
+                  Q 440 50 510 82 
+                  Q 590 130 660 82
+                  Q 740 50 810 82
+                  Q 890 130 960 82
+                  Q 1040 50 1110 82 
+                  Q 1190 130 1250 92 
+   " fill="none" stroke="blue" stroke-width="35"/>
+  
+  <!-- Red Cable  -->
+  <line x1="-70" y1="102" x2="-20" y2="102" stroke="gold" stroke-width="15"/>
+  <line x1="-20" y1="102" x2="75" y2="102" stroke="red" stroke-width="20"/>
+<!-- After Twist  -->
+  <line x1="1335" y1="60" x2="1385" y2="60" stroke="gold" stroke-width="15"/>
+  <line x1="1240" y1="60" x2="1335" y2="61" stroke="red" stroke-width="20"/>
+  
+  <path d="M70 102 Q 130 130 210 82 
+                  Q 290 50 360 82 
+                  Q 440 130 510 82
+                  Q 590 50 660 82
+                  Q 740 130 810 82
+                  Q 890 50 960 82
+                  Q 1040 130 1110 82 
+                  Q 1190 30 1250 62
+  " fill="none" stroke="red" stroke-width="35"/>
+  
+  <!-- Black Cable  -->
+ <line x1="-70" y1="42" x2="-20" y2="42" stroke="gold" stroke-width="15"/>
+  <line x1="-20" y1="42" x2="75" y2="42" stroke="black" stroke-width="20"/>
+  <!-- After Twist  -->
+ <line x1="1335" y1="28" x2="1385" y2="28" stroke="gold" stroke-width="15"/>
+ <line x1="1240" y1="28" x2="1335" y2="28" stroke="black" stroke-width="20"/>
+  
+  <path d="M70 42 Q 150 0 270 88
+                  Q 360 160 460 82
+                  Q 540 19 610 82
+                  Q 690 160 760 82
+                  Q 840 19 910 82
+                  Q 990 160 1060 82
+                  Q 1160 -10 1250 30
+    " fill="none" stroke="black" stroke-width="35"/>
+  
+  <!-- Green Cable  -->
+  <line x1="-70" y1="132" x2="-20" y2="132" stroke="gold" stroke-width="15"/>
+  <line x1="-20" y1="132" x2="74" y2="132" stroke="green" stroke-width="20"/>
+<!-- After Twist  -->
+  <line x1="1335" y1="132" x2="1385" y2="132" stroke="gold" stroke-width="15"/>
+  <line x1="1240" y1="132" x2="1335" y2="132" stroke="green" stroke-width="20"/>
+  
+  <path d="M70 132 Q 150 180 270 82
+                  Q 360 19 460 82
+                  Q 540 160 610 82
+                  Q 690 19 760 82
+                  Q 840 160 910 82
+                  Q 990 19 1060 82
+                  Q 1160 170 1250 130
+    " fill="none" stroke="green" stroke-width="35"/>
+  
+</svg>
